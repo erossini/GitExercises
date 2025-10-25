@@ -115,3 +115,40 @@ git pull origin main
 git add story.txt
 git commit -m "Resolved merge conflict"
 ```
+
+## Create your personal bio
+
+### Create a new repository
+
+- Go to your GitHub account and click "New repository".
+- Name the repository exactly the same as your username.
+
+> Example: If your username is `erossini`, the repo name should be `erossini`.
+
+### Make it public
+
+The repository must be public for the README to show on your profile.
+
+### Check "Add a README file"
+
+GitHub will automatically detect this and display the README on your profile.
+
+### Customize your README
+
+You can use Markdown to add:
+
+- Text ✍️
+- Images 🖼️
+- Links 🔗
+- Emojis 😎
+- Badges 🚀
+
+Example:
+
+    # Hi, I'm Enrico 👋
+
+    - 🔭 I’m currently working on open-source projects
+    - 🌱 Explaining GitHub
+    - 📫 Reach me at [My Website](https://puresourcecode.com)
+
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erossini&show_icons=true)
