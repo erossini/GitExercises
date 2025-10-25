@@ -48,3 +48,67 @@ But with Git, these actions are extremely cheap and simple, and they are conside
 - [GeeksforGeeks](https://www.geeksforgeeks.org/git/git-exercise/): Offers simple Git exercises, practice questions, and solutions suitable for all skill levels. 
 - [WebUtility.io](https://webutility.io/git-simulator-online): Provides a Git Simulator for hands-on practice with Git commands and workflows directly in your browser.
 - [Git Exercises](https://gitexercises.fracz.com/): A dedicated platform to learn and practice Git with various exercises. These resources will help you level up your Git knowledge effectively!
+
+---
+
+## Build a Collaborative Story
+
+Students will collaboratively build a short story using Git. Each student contributes a paragraph, practices branching, merging, and resolving conflicts.
+
+### 🧑‍🏫 Setup
+
+- Each student should have Git installed and access to GitHub or another Git hosting service.
+- Instructor creates a public repository called collaborative-story.
+
+### 📝 Instructions
+
+1. Clone the Repository
+
+```bash
+git clone https://github.com/your-org/collaborative-story.git
+cd collaborative-story
+```
+
+2. Create a New Branch
+
+Each student creates a personal branch:
+
+```bash
+git checkout -b student-name-story
+```
+
+3. Add a Paragraph
+
+Edit the file story.txt and add a paragraph at the end.
+
+4. Commit the Change
+
+```bash
+git add story.txt
+git commit -m "Added my paragraph to the story"
+```
+
+5. Push the branch
+
+```bash
+git push origin student-name-story
+```
+
+6. Create a Pull Request
+7. 
+Students open a pull request to merge their branch into main.
+
+8. Review & Merge
+
+Instructor or peers review the pull request and merge it.
+
+9. Conflict Resolution (Optional Challenge)
+
+If two students edit the same line, Git will show a conflict. Instructor can simulate this and guide students through resolving it:
+
+```bash
+git pull origin main
+# Resolve conflict in story.txt
+git add story.txt
+git commit -m "Resolved merge conflict"
+```
