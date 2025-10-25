@@ -65,7 +65,7 @@ Students will collaboratively build a short story using Git. Each student contri
 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/erossini/GitExercises.git](https://github.com/erossini/GitExercises.git)
+git clone https://github.com/erossini/GitExercises.git
 cd GitExercises
 ```
 
