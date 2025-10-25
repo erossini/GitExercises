@@ -15,6 +15,7 @@ But with Git, these actions are extremely cheap and simple, and they are conside
 - Create your account with [GitHub](https://github.com/)
 - Clone this repository
 - Create a pull request
+- Review and peer review
 - Fork this repository
 - Manage conflicts
 
