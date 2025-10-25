@@ -13,6 +13,10 @@ But with Git, these actions are extremely cheap and simple, and they are conside
 ### GitHub
 
 - Create your account with [GitHub](https://github.com/)
+- Clone this repository
+- Create a pull request
+- Fork this repository
+- Manage conflicts
 
 ### Azure DevOps
 
