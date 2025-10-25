@@ -65,8 +65,8 @@ Students will collaboratively build a short story using Git. Each student contri
 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-org/collaborative-story.git
-cd collaborative-story
+git clone [https://github.com/erossini/GitExercises.git](https://github.com/erossini/GitExercises.git)
+cd GitExercises
 ```
 
 2. Create a New Branch
