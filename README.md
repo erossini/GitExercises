@@ -1,1 +1,1 @@
-# GitExercises
+# Git Exercises
