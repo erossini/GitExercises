@@ -18,6 +18,8 @@ But with Git, these actions are extremely cheap and simple, and they are conside
 - Review and peer review
 - Fork this repository
 - Manage conflicts
+- Create a Wiki
+- Create your personal page
 
 ### Azure DevOps
 
