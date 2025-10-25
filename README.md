@@ -135,7 +135,7 @@ GitHub will automatically detect this and display the README on your profile.
 
 ### Customize your README
 
-You can use Markdown to add:
+You can use [Markdown](https://www.markdownguide.org/cheat-sheet/) to add:
 
 - Text ✍️
 - Images 🖼️
