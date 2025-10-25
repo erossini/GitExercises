@@ -95,12 +95,12 @@ git push origin student-name-story
 ```
 
 6. Create a Pull Request
-7. 
+
 Students open a pull request to merge their branch into main.
 
 8. Review & Merge
 
-Instructor or peers review the pull request and merge it.
+Peers review the pull request and merge it.
 
 9. Conflict Resolution (Optional Challenge)
 
