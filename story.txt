@@ -1,3 +1,5 @@
 # Collaborative Story
 
 This is the beginning of the story.
+
+First entry
