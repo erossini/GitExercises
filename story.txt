@@ -1,6 +1,1 @@
-# Collaborative Story
-
-This is the beginning of the story.
-
-First entry
 Once upon a time, there was a bird who couldn't fly.
