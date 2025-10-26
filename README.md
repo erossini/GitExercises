@@ -10,6 +10,8 @@ But with Git, these actions are extremely cheap and simple, and they are conside
 
 ## Plan
 
+Install [Git](https://git-scm.com/install/).
+
 ### GitHub
 
 - Create your account with [GitHub](https://github.com/)
