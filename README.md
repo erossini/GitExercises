@@ -11,6 +11,7 @@ But with Git, these actions are extremely cheap and simple, and they are conside
 ## Plan
 
 Install [Git](https://git-scm.com/install/).
+[Markdown](https://www.markdownguide.org/basic-syntax/)
 
 ### GitHub
 
