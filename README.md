@@ -158,3 +158,6 @@ Example:
     - 📫 Reach me at [My Website](https://puresourcecode.com)
 
     ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erossini&show_icons=true)
+
+### Forking exercise
+Adding MD text to a forked version of Enrico's repo.
